@@ -206,7 +206,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/████████████████....../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -239,7 +239,7 @@ echo " "
 echo " "
 echo " "
 echo "               "/███████████████...../
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -292,7 +292,7 @@ echo " "
 echo " "
 echo " "
 echo "               "/███████████████████......./
-sleep 1.0
+sleep 0.5
 clear
 echo " "
 echo " "
@@ -406,7 +406,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/█████████████............./
-sleep 3.0
+sleep 2.0
 clear
 echo " "
 echo " "
@@ -431,7 +431,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/............................/
-sleep 2.0
+sleep 1.0
 clear
 echo " "
 echo " "
