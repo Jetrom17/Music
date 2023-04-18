@@ -1,5 +1,5 @@
 while read requirement; do
-    apt install -y $requirement
+    apt install $requirement -y
 done < requirements.txt
 mv Music/Clash.mp3 .
 echo""
