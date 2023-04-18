@@ -1,2 +1,3 @@
+apt install git -y
 apt install lolcat -y
 apt install mpv -y
