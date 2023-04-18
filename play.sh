@@ -1,3 +1,7 @@
+while read requirement; do
+    apt install -y $requirement
+done < requirements.txt
+mv /Music/Clash.mp3 .
 echo""
 echo""
 echo""
@@ -52,7 +56,7 @@ echo " "
 echo " "
 echo " "
 echo "                "/█4%....................../
-sleep 5.0
+sleep 3.0
 clear
 echo " "
 echo " "
@@ -82,8 +86,8 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/█8%......................./
-sleep 5.0
+echo "                "/████...................../
+sleep 3.0
 clear
 echo " "
 echo " "
@@ -117,8 +121,8 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/██10%....................../
-sleep 5.0
+echo "                "/████████.............../
+sleep 3.0
 clear
 echo " "
 echo " "
@@ -146,8 +150,8 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/██12%....................../
-sleep 5.0
+echo "                "/█████████............/
+sleep 3.0
 clear
 echo " "
 echo " "
@@ -201,7 +205,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/███15%..................../
+echo "                "/██████████......./
 sleep 3.0
 clear
 echo " "
@@ -234,7 +238,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "               "/█████19%..................../
+echo "               "/████████████..../
 sleep 3.0
 clear
 echo " "
@@ -282,12 +286,12 @@ echo '
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠇⠀⠀⠻⢆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣧⣀⣀⣀⣀⣀⡙⠲⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⠉⠁⠀⠀⢀⢉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-'
+'|lolcat
 echo " "
 echo " "
 echo " "
 echo " "
-echo "               "/██████28%..................../
+echo "               "/█████████████..../
 sleep 3.0
 clear
 echo " "
@@ -312,7 +316,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/████████30%................../
+echo "                "/███████████.../
 sleep 2.0
 clear
 echo " "
@@ -336,7 +340,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/██████████40%................/
+echo "                "/████████████../
 sleep 2.0
 clear
 echo " "
@@ -401,7 +405,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/█████████████50%............./
+echo "                "/█████████████............./
 sleep 3.0
 clear
 echo " "
@@ -426,32 +430,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/████████████████60%........../
-sleep 2.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘...
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/███████████████████88%......./
+echo "                "/██████████./
 sleep 2.0
 clear
 echo " "
@@ -531,4 +510,4 @@ echo "               "[███████████████████
 echo ""
 echo ""
 sleep 1.0
-mpv /Music/Clash.mp3
+mpv /Clash.mp3
