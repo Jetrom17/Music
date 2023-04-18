@@ -1,3 +1,4 @@
+#!/bin/bash
 while read requirement; do
     apt install $requirement -y
 done < requirements.txt
