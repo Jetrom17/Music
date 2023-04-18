@@ -1,7 +1,7 @@
 while read requirement; do
     apt install -y $requirement
 done < requirements.txt
-mv /Music/Clash.mp3 .
+mv Music/Clash.mp3 .
 echo""
 echo""
 echo""
@@ -205,7 +205,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/██████████......./
+echo "                "/████████████████....../
 sleep 3.0
 clear
 echo " "
@@ -238,7 +238,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "               "/████████████..../
+echo "               "/███████████████...../
 sleep 3.0
 clear
 echo " "
@@ -291,7 +291,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "               "/█████████████..../
+echo "               "/███████████████████......./
 sleep 3.0
 clear
 echo " "
@@ -316,7 +316,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/███████████.../
+echo "                "/████████████████████../
 sleep 2.0
 clear
 echo " "
@@ -340,7 +340,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/████████████../
+echo "                "/███████████████████████./
 sleep 2.0
 clear
 echo " "
@@ -430,7 +430,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "                "/██████████./
+echo "                "/............................/
 sleep 2.0
 clear
 echo " "
